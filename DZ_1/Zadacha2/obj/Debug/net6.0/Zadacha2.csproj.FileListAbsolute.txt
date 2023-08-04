@@ -1,0 +1,15 @@
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\bin\Debug\net6.0\Zadacha2.exe
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\bin\Debug\net6.0\Zadacha2.deps.json
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\bin\Debug\net6.0\Zadacha2.runtimeconfig.json
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\bin\Debug\net6.0\Zadacha2.dll
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\bin\Debug\net6.0\Zadacha2.pdb
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.AssemblyReference.cache
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfoInputs.cache
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.AssemblyInfo.cs
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.csproj.CoreCompileInputs.cache
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.dll
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\refint\Zadacha2.dll
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.pdb
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\Zadacha2.genruntimeconfig.cache
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\DZ_1\Zadacha2\obj\Debug\net6.0\ref\Zadacha2.dll
