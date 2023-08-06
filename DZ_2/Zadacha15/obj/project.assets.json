@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/Zadacha2.csproj",
-      "projectName": "Zadacha2",
-      "projectPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/Zadacha2.csproj",
+      "projectUniqueName": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha15/Zadacha15.csproj",
+      "projectName": "Zadacha15",
+      "projectPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha15/Zadacha15.csproj",
       "packagesPath": "/home/kota/.nuget/packages/",
-      "outputPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/obj/",
+      "outputPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha15/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kota/.nuget/NuGet/NuGet.Config"

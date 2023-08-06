@@ -1,0 +1,15 @@
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.csproj.AssemblyReference.cache
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.GeneratedMSBuildEditorConfig.editorconfig
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.AssemblyInfoInputs.cache
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.AssemblyInfo.cs
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.csproj.CoreCompileInputs.cache
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/bin/Debug/net6.0/Zadacha10
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/bin/Debug/net6.0/Zadacha10.deps.json
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/bin/Debug/net6.0/Zadacha10.runtimeconfig.json
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/bin/Debug/net6.0/Zadacha10.dll
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/bin/Debug/net6.0/ref/Zadacha10.dll
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/bin/Debug/net6.0/Zadacha10.pdb
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.dll
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/ref/Zadacha10.dll
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.pdb
+/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha10/obj/Debug/net6.0/Zadacha10.genruntimeconfig.cache

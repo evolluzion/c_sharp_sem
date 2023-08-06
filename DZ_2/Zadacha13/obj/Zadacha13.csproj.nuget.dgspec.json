@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/Zadacha2.csproj": {}
+    "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha13/Zadacha13.csproj": {}
   },
   "projects": {
-    "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/Zadacha2.csproj": {
+    "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha13/Zadacha13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/Zadacha2.csproj",
-        "projectName": "Zadacha2",
-        "projectPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/Zadacha2.csproj",
+        "projectUniqueName": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha13/Zadacha13.csproj",
+        "projectName": "Zadacha13",
+        "projectPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha13/Zadacha13.csproj",
         "packagesPath": "/home/kota/.nuget/packages/",
-        "outputPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_1/Zadacha2/obj/",
+        "outputPath": "/home/kota/Рабочий стол/GeekBrains/c_sharp_sem/DZ_2/Zadacha13/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kota/.nuget/NuGet/NuGet.Config"
