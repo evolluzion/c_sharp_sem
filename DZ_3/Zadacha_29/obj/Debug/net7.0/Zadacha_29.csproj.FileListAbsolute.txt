@@ -1,0 +1,15 @@
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\bin\Debug\net7.0\Zadacha_29.exe
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\bin\Debug\net7.0\Zadacha_29.deps.json
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\bin\Debug\net7.0\Zadacha_29.runtimeconfig.json
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\bin\Debug\net7.0\Zadacha_29.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\bin\Debug\net7.0\Zadacha_29.pdb
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.csproj.AssemblyReference.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.AssemblyInfoInputs.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.AssemblyInfo.cs
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.csproj.CoreCompileInputs.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\refint\Zadacha_29.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.pdb
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\Zadacha_29.genruntimeconfig.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_3\Zadacha_29\obj\Debug\net7.0\ref\Zadacha_29.dll
