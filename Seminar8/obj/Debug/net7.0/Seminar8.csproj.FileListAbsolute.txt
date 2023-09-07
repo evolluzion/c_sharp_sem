@@ -1,0 +1,15 @@
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.csproj.AssemblyReference.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.AssemblyInfoInputs.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.AssemblyInfo.cs
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.csproj.CoreCompileInputs.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\bin\Debug\net7.0\Seminar8.exe
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\bin\Debug\net7.0\Seminar8.deps.json
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\bin\Debug\net7.0\Seminar8.runtimeconfig.json
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\bin\Debug\net7.0\Seminar8.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\bin\Debug\net7.0\Seminar8.pdb
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\refint\Seminar8.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.pdb
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\Seminar8.genruntimeconfig.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\Seminar8\obj\Debug\net7.0\ref\Seminar8.dll
