@@ -1,0 +1,15 @@
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.csproj.AssemblyReference.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.AssemblyInfoInputs.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.AssemblyInfo.cs
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.csproj.CoreCompileInputs.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\bin\Debug\net7.0\Zadacha54.exe
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\bin\Debug\net7.0\Zadacha54.deps.json
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\bin\Debug\net7.0\Zadacha54.runtimeconfig.json
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\bin\Debug\net7.0\Zadacha54.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\bin\Debug\net7.0\Zadacha54.pdb
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\refint\Zadacha54.dll
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.pdb
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\Zadacha54.genruntimeconfig.cache
+D:\GeekBrains\c_sharp\c_sharp_sem\DZ_7\Zadacha54\obj\Debug\net7.0\ref\Zadacha54.dll
