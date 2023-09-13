@@ -1,0 +1,14 @@
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\bin\Debug\net7.0\Zadacha68.exe
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\bin\Debug\net7.0\Zadacha68.deps.json
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\bin\Debug\net7.0\Zadacha68.runtimeconfig.json
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\bin\Debug\net7.0\Zadacha68.dll
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\bin\Debug\net7.0\Zadacha68.pdb
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\Zadacha68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\Zadacha68.AssemblyInfoInputs.cache
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\Zadacha68.AssemblyInfo.cs
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\Zadacha68.csproj.CoreCompileInputs.cache
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\Zadacha68.dll
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\refint\Zadacha68.dll
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\Zadacha68.pdb
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\Zadacha68.genruntimeconfig.cache
+C:\Users\b.napolskiy\Desktop\GeekBrains\github\c_sharp_sem\DZ_8\Zadacha68\obj\Debug\net7.0\ref\Zadacha68.dll
